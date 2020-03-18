@@ -1,3 +1,10 @@
+/*
+ * This program work on ESP8266 Standard library.
+ * 
+ * The screen chip is ST7735S, you can find the library from github - "TFT_eSPI.h"
+ * Arduinojson library 5 work fine for me.
+ */
+
 #include <NTPClient.h>
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
